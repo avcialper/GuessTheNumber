@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="app_title">TAHMİNİNİ YAP</string>
+    <string name="start_button_text">TAHMİNE BAŞLA</string>
+    <string name="remaining_guess">Kalan Hak: 5</string>
+    <string name="increase">ATTIR</string>
+    <string name="decrease">AZALT</string>
+    <string name="zero_hundred">0-100</string>
+    <string name="guess">TAHMİN ET</string>
+    <string name="success">TEBRİKLER!!</string>
+    <string name="lose">TAHMİNLERİN YANLIŞ</string>
+    <string name="restart_title">TEKRAR YAPALIM</string>
+    <string name="number_error">0 ile 100 arasında bir sayı giriniz</string>
+</resources>
